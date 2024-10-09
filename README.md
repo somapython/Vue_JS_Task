@@ -7,3 +7,4 @@ To Start This Application following steps to follow
 3) write npm i
 4) write npm run serve
 5) it will start the server copy that url in web browser
+6) i had deployed this is in vercel at url:https://vue-js-task.vercel.app/ check their also.
